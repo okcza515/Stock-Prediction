@@ -3,4 +3,4 @@ before running you need to install streamlit, prophet and yfinance with followin
 
 pip install pystan 
 
-pip install streamlit fbprophet yfinance
+pip install streamlit prophet yfinance
