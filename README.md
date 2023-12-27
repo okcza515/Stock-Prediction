@@ -6,3 +6,4 @@ pip install pystan streamlit prophet yfinance plotly pyngrok
 # usage
 1) go to NgrokTunnel .app link that get from compliation
 2) input valid stock symbol of yahoo finance that you want to predict, and select the number of year to be predicted
+3) You may see the first graph, but that is just actual graph of the stock, wait until "Stock Prediction" subheader appears.
