@@ -9,3 +9,5 @@ pip install pystan streamlit prophet yfinance plotly pyngrok
 3) You may see the first graph, but that is just actual graph of the stock, wait until "Stock Prediction" subheader appears.
 
    if it's thai stock, you need to put .bk after your stock symbol. For example: mbk.bk
+
+if have problem, try to copy importing header(those header: from... import... as... ) at a new blank cell and run it first
