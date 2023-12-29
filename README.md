@@ -1,4 +1,7 @@
 # stock-prediction with Prophet
+Yahoo finance stocks prediction web application with Python
+
+# Note
 before running you need to install streamlit, prophet yfinance plotly, pyngrok with following commands
 
 pip install pystan streamlit prophet yfinance plotly pyngrok
