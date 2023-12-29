@@ -1,4 +1,4 @@
-# stock-prediction with Prophet
+# Stock-Prediction with Prophet
 Yahoo finance stocks prediction web application with Python
 
 # Note
